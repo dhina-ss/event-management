@@ -101,7 +101,7 @@ Content-Type: application/json
 
 Once server is running:
 
-http://localhost:8000/swagger/
+http://localhost:8000/swagger/,
 http://localhost:8000/redoc/
 
 ---
@@ -114,6 +114,6 @@ http://localhost:8000/redoc/
 
 # Contributors
 
-- Dhinakaran Sekar — Developer
+- Dhinakaran Sekar - Developer
 
 ---
